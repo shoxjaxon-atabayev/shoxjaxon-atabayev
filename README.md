@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=180&section=header&text=Shoxjaxon&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full Stack & Backend developer+✦+Building things on the internet&descAlignY=72&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=180&section=header&text=Шохжахон&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full Stack & Backend developer+✦+Building things on the internet&descAlignY=72&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building things on the internet;Full Stack & Backend developer+✨;Building+YOUR_PROJECT+🚀" alt="Typing"/>
 </div>
@@ -65,11 +65,11 @@
 ## 🌐 Projects
 
 <p align="center">
+  <a href="https://github.com/shoxjaxon-atabayev/shoxjaxon-atabayev">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=shoxjaxon-atabayev&repo=shoxjaxon-atabayev&theme=github_dark&hide_border=true&title_color=a5f3fc&bg_color=0f172a"/>
+  </a>
   <a href="https://github.com/shoxjaxon-atabayev/snipy">
     <img src="https://github-readmeapp.vercel.app/api/pin/?username=shoxjaxon-atabayev&repo=snipy&theme=github_dark&hide_border=true&title_color=a5f3fc&bg_color=0f172a"/>
-  </a>
-  <a href="https://github.com/shoxjaxon-atabayev/car-rental-react">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=shoxjaxon-atabayev&repo=car-rental-react&theme=github_dark&hide_border=true&title_color=a5f3fc&bg_color=0f172a"/>
   </a>
 </p>
 
