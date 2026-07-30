@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=180&section=header&text=Шохжахон&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full Stack & Backend developer+✦+Building things on the internet&descAlignY=72&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building things on the internet;Full Stack & Backend developer+✨;Building+YOUR_PROJECT+🚀" alt="Typing"/>
@@ -75,4 +75,4 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
-</div>
+</div> -->
