@@ -1,13 +1,8 @@
 <svg fill="none" width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes pulseGlow {
-      0%, 100% { opacity: 0.25; }
-      50% { opacity: 0.6; }
-    }
-    @keyframes gradientShift {
-      0% { stop-color: #f0f6fc; }
-      50% { stop-color: #8b949e; }
-      100% { stop-color: #f0f6fc; }
+    @keyframes silverPulse {
+      0%, 100% { opacity: 0.15; }
+      50% { opacity: 0.35; }
     }
     .bg { fill: #0d1117; }
     .title {
@@ -15,6 +10,7 @@
       font-weight: 800;
       font-size: 34px;
       letter-spacing: 3px;
+      fill: url(#silverGrad);
     }
     .subtitle {
       font-family: 'JetBrains Mono', monospace, -apple-system, sans-serif;
@@ -36,45 +32,47 @@
       fill: #c9d1d9;
       letter-spacing: 1px;
     }
-    .border-box {
-      stroke: url(#grayGrad);
-      stroke-width: 1.5;
-      rx: 8px;
+    .solid-border {
+      stroke: url(#borderGrad);
+      stroke-width: 1.2;
+      rx: 10px;
     }
     .glow {
-      animation: pulseGlow 4s ease-in-out infinite;
+      animation: silverPulse 4s ease-in-out infinite;
     }
   </style>
 
   <defs>
-    <linearGradient id="silverTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" />
       <stop offset="50%" stop-color="#8b949e" />
-      <stop offset="100%" stop-color="#f0f6fc" />
+      <stop offset="100%" stop-color="#e6edf3" />
     </linearGradient>
-    <linearGradient id="grayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#6e7681" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#21262d" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#8b949e" stop-opacity="0.8"/>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6e7681"/>
+      <stop offset="50%" stop-color="#21262d"/>
+      <stop offset="100%" stop-color="#484f58"/>
     </linearGradient>
+
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
       <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#161b22" stroke-width="0.8"/>
     </pattern>
   </defs>
 
   <!-- Background Base -->
-  <rect width="800" height="150" class="bg" rx="10"/>
-  <rect width="800" height="150" fill="url(#grid)" rx="10"/>
+  <rect width="800" height="150" class="bg" rx="12"/>
+  <rect width="800" height="150" fill="url(#grid)" rx="12"/>
   
-  <!-- Subtle Silver Glow -->
-  <circle cx="400" cy="75" r="130" fill="#8b949e" opacity="0.08" class="glow" filter="blur(45px)"/>
+  <!-- Subtle Silver Glow (No Blue) -->
+  <circle cx="400" cy="75" r="140" fill="#ffffff" class="glow" filter="blur(50px)"/>
 
-  <!-- Outer Border Frame -->
-  <rect x="2" y="2" width="796" height="146" fill="none" class="border-box"/>
+  <!-- Solid Smooth Metallic Border (NO dashed line) -->
+  <rect x="2" y="2" width="796" height="146" fill="none" class="solid-border"/>
 
-  <!-- Content -->
+  <!-- Header Text & Badges -->
   <g text-anchor="middle">
-    <text x="400" y="62" class="title" fill="url(#silverTitle)">SHOXJAXON ATABAYEV</text>
+    <text x="400" y="62" class="title">SHOXJAXON ATABAYEV</text>
     <text x="400" y="93" class="subtitle">FULL STACK &amp; BACKEND DEVELOPER</text>
     
     <!-- Minimal Metallic Badges -->

@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Silver Metallic Gradient Header Banner -->
+  <!-- Solid Silver Metallic Gradient Header Banner (No dashed borders, no blue glow) -->
   <img src="./assets/header.svg" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG (Silver Gray Metallic Text) -->
+  <!-- Dynamic Typing SVG (Silver Gray Metallic) -->
   <a href="https://github.com/shoxjaxon-atabayev">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Backend+Developer;Building+Scalable+Web+Systems;Clean+Code+%26+API+Architecture" alt="Typing SVG" />
   </a>
@@ -35,7 +35,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:code-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; ABOUT ME
+### <img src="https://api.iconify.design/octicon:code-16.svg?color=%238b949e" height="20" valign="middle"/> &nbsp; ABOUT ME
 
 ```json
 {
@@ -51,7 +51,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; TECH STACK
+### <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%238b949e" height="20" valign="middle"/> &nbsp; TECH STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=c9d1d9"/>
@@ -68,7 +68,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; METRICS &amp; ACTIVITY
+### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%238b949e" height="20" valign="middle"/> &nbsp; GITHUB METRICS &amp; ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxjaxon-atabayev&custom_title=GitHub%20Activity%20Graph&bg_color=0d1117&color=c9d1d9&line=8b949e&point=f0f6fc&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
@@ -77,9 +77,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoxjaxon-atabayev&show_icons=true&theme=dark&hide_border=true&title_color=f0f6fc&icon_color=c9d1d9&text_color=8b949e&bg_color=0d1117" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=shoxjaxon-atabayev&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=C9D1D9&currStreakNum=F0F6FC&sideNums=8B949E&border=21262D" width="49%" alt="Streak Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=donut&theme=dark&hide_border=true&title_color=f0f6fc&text_color=8b949e&bg_color=0d1117" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=donut&theme=dark&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 ---

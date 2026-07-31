@@ -17,8 +17,8 @@
     }
   </style>
 
-  <rect width="800" height="75" class="bg" rx="8"/>
-  <rect x="1.5" y="1.5" width="797" height="72" fill="none" rx="7" stroke="#21262d" stroke-width="1"/>
+  <rect width="800" height="75" class="bg" rx="10"/>
+  <rect x="2" y="2" width="796" height="71" fill="none" rx="8" stroke="#30363d" stroke-width="1.2"/>
 
   <line x1="140" y1="20" x2="660" y2="20" class="accent-line"/>
   
