@@ -43,19 +43,41 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; TECH STACK
+### <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; TECH STACK &amp; TOOLING
 
 <p align="center">
+  <b>Languages &amp; Backend Frameworks</b><br/><br/>
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=c9d1d9"/>
   <img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/Django_REST-161b22?style=for-the-badge&logo=django&logoColor=c9d1d9"/>
   <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=c9d1d9"/>
+</p>
+
+<p align="center">
+  <b>Databases, Cloud &amp; Infrastructure</b><br/><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/PostGIS-161b22?style=for-the-badge&logo=postgresql&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=c9d1d9"/>
   <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=c9d1d9"/>
   <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazon-aws&logoColor=c9d1d9"/>
   <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=c9d1d9"/>
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=c9d1d9"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/Gunicorn-161b22?style=for-the-badge&logo=python&logoColor=c9d1d9"/>
+</p>
+
+<p align="center">
+  <b>Developer Environment &amp; Tools</b><br/><br/>
   <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/PyCharm-161b22?style=for-the-badge&logo=pycharm&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/Postman-161b22?style=for-the-badge&logo=postman&logoColor=c9d1d9"/>
+  <img src="https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=c9d1d9"/>
 </p>
 
 ---
