@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Solid Silver Metallic Gradient Header Banner (No dashed borders, no blue glow) -->
+  <!-- Glassmorphic Platinum & Charcoal Gray Header SVG Banner -->
   <img src="./assets/header.svg" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG (Silver Gray Metallic) -->
+  <!-- Dynamic Typing SVG (Frosty Silver Metallic Text) -->
   <a href="https://github.com/shoxjaxon-atabayev">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Backend+Developer;Building+Scalable+Web+Systems;Clean+Code+%26+API+Architecture" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Minimalist Monochromatic Silver Social Badges -->
+  <!-- Minimalist Monochromatic Glass Social Badges -->
   <a href="https://t.me/shoxjaxon_atabayev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=c9d1d9" alt="Telegram"/>
   </a>
@@ -35,7 +35,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:code-16.svg?color=%238b949e" height="20" valign="middle"/> &nbsp; ABOUT ME
+### <img src="https://api.iconify.design/octicon:code-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; ABOUT ME
 
 ```json
 {
@@ -51,7 +51,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%238b949e" height="20" valign="middle"/> &nbsp; TECH STACK
+### <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; TECH STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=c9d1d9"/>
@@ -68,7 +68,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%238b949e" height="20" valign="middle"/> &nbsp; GITHUB METRICS &amp; ACTIVITY
+### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; METRICS &amp; ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxjaxon-atabayev&custom_title=GitHub%20Activity%20Graph&bg_color=0d1117&color=c9d1d9&line=8b949e&point=f0f6fc&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-  <!-- Monochromatic Silver Metallic Footer SVG -->
+  <!-- Glassmorphic Silver Metallic Footer SVG -->
   <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>

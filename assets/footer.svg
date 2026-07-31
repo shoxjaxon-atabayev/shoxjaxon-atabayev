@@ -5,6 +5,13 @@
       50% { opacity: 0.8; stroke: #8b949e; }
     }
     .bg { fill: #0d1117; }
+    .glass-card {
+      fill: #161b22;
+      fill-opacity: 0.7;
+      stroke: url(#glassBorder);
+      stroke-width: 1.2;
+      rx: 10px;
+    }
     .quote {
       font-family: 'JetBrains Mono', monospace;
       font-size: 13px;
@@ -17,10 +24,18 @@
     }
   </style>
 
-  <rect width="800" height="75" class="bg" rx="10"/>
-  <rect x="2" y="2" width="796" height="71" fill="none" rx="8" stroke="#30363d" stroke-width="1.2"/>
+  <defs>
+    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b949e" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#21262d" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#6e7681" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
 
-  <line x1="140" y1="20" x2="660" y2="20" class="accent-line"/>
+  <rect width="800" height="75" class="bg" rx="10"/>
+  <rect x="8" y="8" width="784" height="59" class="glass-card"/>
+
+  <line x1="150" y1="23" x2="650" y2="23" class="accent-line"/>
   
   <text x="400" y="47" text-anchor="middle" class="quote">"Crafting elegant software with discipline and precision."</text>
 </svg>
