@@ -37,17 +37,9 @@
 
 ### <img src="https://api.iconify.design/octicon:code-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; ABOUT ME
 
-```json
-{
-  "developer": {
-    "name": "Shoxjaxon Atabayev",
-    "role": "Full Stack & Backend Developer",
-    "focus": ["API Architecture", "Scalable Systems", "Database Optimization"],
-    "location": "Uzbekistan",
-    "principles": ["Clean Architecture", "Code Quality", "System Reliability"]
-  }
-}
-```
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="About Me Glass Panel" />
+</p>
 
 ---
 
