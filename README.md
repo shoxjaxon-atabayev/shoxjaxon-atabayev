@@ -12,7 +12,7 @@
 
   <br/><br/>
 
-  <!-- Minimalist Unified Social Badges (Obsidian & Steel Palette) -->
+  <!-- Minimalist Monochromatic Social Badges -->
   <a href="https://t.me/shoxjaxon_atabayev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=58a6ff" alt="Telegram"/>
   </a>
@@ -35,7 +35,7 @@
 
 ---
 
-### ⚡ About Me
+### <img src="https://api.iconify.design/octicon:code-16.svg?color=%2358a6ff" height="20" valign="middle"/> &nbsp; ABOUT ME
 
 ```json
 {
@@ -51,10 +51,10 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### <img src="https://api.iconify.design/octicon:cpu-16.svg?color=%2358a6ff" height="20" valign="middle"/> &nbsp; TECH STACK &amp; TOOLS
 
 <p align="center">
-  <b>Backend & Infrastructure</b><br/><br/>
+  <b>Backend &amp; Infrastructure</b><br/><br/>
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=58a6ff"/>
   <img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=58a6ff"/>
   <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=58a6ff"/>
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <b>Frontend & Design Systems</b><br/><br/>
+  <b>Frontend &amp; Systems</b><br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=58a6ff"/>
   <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=58a6ff"/>
   <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=58a6ff"/>
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <b>DevOps, Cloud & Tooling</b><br/><br/>
+  <b>DevOps, Cloud &amp; Tooling</b><br/><br/>
   <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=58a6ff"/>
   <img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazon-aws&logoColor=58a6ff"/>
   <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=58a6ff"/>
@@ -85,7 +85,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%2358a6ff" height="20" valign="middle"/> &nbsp; GITHUB METRICS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxjaxon-atabayev&custom_title=GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
@@ -105,7 +105,7 @@
 
 ---
 
-### 🐍 Contribution Matrix & Snake
+### <img src="https://api.iconify.design/octicon:git-commit-16.svg?color=%2358a6ff" height="20" valign="middle"/> &nbsp; CONTRIBUTION MATRIX
 
 <p align="center">
   <picture>
