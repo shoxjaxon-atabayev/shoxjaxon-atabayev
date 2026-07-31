@@ -1,0 +1,81 @@
+<svg fill="none" width="350" height="165" viewBox="0 0 350 165" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .glass-card {
+      fill: #161b22;
+      fill-opacity: 0.75;
+      stroke: url(#glassBorder);
+      stroke-width: 1.2;
+      rx: 12px;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #f0f6fc;
+      letter-spacing: 1px;
+    }
+    .lang-name {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #c9d1d9;
+    }
+    .lang-pct {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 500;
+      fill: #8b949e;
+    }
+    .bar-bg {
+      fill: #21262d;
+      rx: 3px;
+    }
+    .bar-python { fill: #c9d1d9; rx: 3px; }
+    .bar-js { fill: #8b949e; rx: 3px; }
+    .bar-html { fill: #6e7681; rx: 3px; }
+    .bar-css { fill: #484f58; rx: 3px; }
+  </style>
+
+  <defs>
+    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b949e" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#21262d" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#6e7681" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Deep Base -->
+  <rect width="350" height="165" class="bg" rx="12"/>
+
+  <!-- Glass Card Frame -->
+  <rect x="4" y="4" width="342" height="157" class="glass-card"/>
+
+  <!-- Title -->
+  <text x="20" y="32" class="title">Most Used Languages</text>
+
+  <!-- Language Bars -->
+  <!-- Python (90.98%) -->
+  <g transform="translate(20, 48)">
+    <text x="0" y="10" class="lang-name">Python</text>
+    <text x="302" y="10" text-anchor="end" class="lang-pct">90.9%</text>
+    <rect x="0" y="16" width="302" height="6" class="bar-bg"/>
+    <rect x="0" y="16" width="275" height="6" class="bar-python"/>
+  </g>
+
+  <!-- JavaScript (4.01%) -->
+  <g transform="translate(20, 76)">
+    <text x="0" y="10" class="lang-name">JavaScript</text>
+    <text x="302" y="10" text-anchor="end" class="lang-pct">4.0%</text>
+    <rect x="0" y="16" width="302" height="6" class="bar-bg"/>
+    <rect x="0" y="16" width="45" height="6" class="bar-js"/>
+  </g>
+
+  <!-- HTML & CSS / TS (5.0%) -->
+  <g transform="translate(20, 104)">
+    <text x="0" y="10" class="lang-name">HTML &amp; CSS</text>
+    <text x="302" y="10" text-anchor="end" class="lang-pct">4.3%</text>
+    <rect x="0" y="16" width="302" height="6" class="bar-bg"/>
+    <rect x="0" y="16" width="35" height="6" class="bar-html"/>
+  </g>
+</svg>
