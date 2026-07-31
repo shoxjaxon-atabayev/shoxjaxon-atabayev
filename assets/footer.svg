@@ -1,28 +1,26 @@
-<svg fill="none" width="800" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
   <style>
     @keyframes lineGlow {
-      0%, 100% { opacity: 0.3; }
-      50% { opacity: 0.8; }
+      0%, 100% { opacity: 0.3; stroke: #30363d; }
+      50% { opacity: 0.8; stroke: #58a6ff; }
     }
     .bg { fill: #0d1117; }
     .quote {
-      font-family: 'JetBrains Mono', Georgia, serif;
-      font-style: italic;
-      font-size: 14px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
       fill: #8b949e;
       letter-spacing: 1px;
     }
     .accent-line {
-      stroke: #58a6ff;
       stroke-width: 1;
-      animation: lineGlow 3s ease-in-out infinite;
+      animation: lineGlow 4s ease-in-out infinite;
     }
   </style>
 
-  <rect width="800" height="90" class="bg" rx="10"/>
-  <rect x="2" y="2" width="796" height="86" fill="none" rx="8" stroke="#30363d" stroke-width="1"/>
+  <rect width="800" height="80" class="bg" rx="8"/>
+  <rect x="1" y="1" width="798" height="78" fill="none" rx="7" stroke="#21262d" stroke-width="1"/>
 
-  <line x1="100" y1="25" x2="700" y2="25" class="accent-line"/>
+  <line x1="120" y1="22" x2="680" y2="22" class="accent-line"/>
   
-  <text x="400" y="55" text-anchor="middle" class="quote">"Crafting elegant software with discipline and precision."</text>
+  <text x="400" y="50" text-anchor="middle" class="quote">"Crafting elegant software with discipline and precision."</text>
 </svg>
