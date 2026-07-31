@@ -71,7 +71,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shoxjaxon-atabayev&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=C9D1D9&currStreakNum=F0F6FC&sideNums=8B949E&border=21262D" width="49%" alt="Streak Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=donut&theme=dark&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoxjaxon-atabayev&theme=dark&hide_border=true&layout=donut" height="165" alt="Top Languages"/>
 </p>
 
 ---
