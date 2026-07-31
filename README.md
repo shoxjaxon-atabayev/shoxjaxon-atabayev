@@ -1,78 +1,111 @@
-<!-- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=180&section=header&text=Шохжахон&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full Stack & Backend developer+✦+Building things on the internet&descAlignY=72&descSize=16" width="100%"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building things on the internet;Full Stack & Backend developer+✨;Building+YOUR_PROJECT+🚀" alt="Typing"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=180&section=header&text=Shoxjaxon%20Atabayev&fontSize=42&fontColor=f0f6fc&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20%26%20Backend%20Developer&descAlignY=70&descSize=18&descColor=8b949e" width="100%" alt="Header Banner" />
+
+  <br/>
+
+  <!-- Dynamic Typing Animation -->
+  <a href="https://github.com/shoxjaxon-atabayev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+%26+Backend+Developer+⚡;Building+Scalable+Web+Systems+%26+APIs+🛠️;Crafting+Clean%2C+Efficient+%26+Maintainable+Code+💻" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Social Links / Connect Badges -->
+  <a href="https://t.me/shoxjaxon_atabayev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=58a6ff" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shoxjaxon-atabayev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/19shokh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=e1306c" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:shoxjaxonatabaev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email"/>
+  </a>
+
 </div>
 
-## ⌨️ About Me
+<br/>
+
+---
+
+### ⚡ About Me
+
+```json
+{
+  "developer": {
+    "name": "Shoxjaxon Atabayev",
+    "role": "Full Stack & Backend Developer",
+    "focus": ["API Architecture", "Scalable Systems", "Database Optimization"],
+    "location": "Uzbekistan",
+    "passions": ["Clean Architecture", "Open Source", "Performance Tuning"]
+  }
+}
+```
+
+---
+
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full%20Stack%20%26%20Backend%20developer%3BBuilding%20things%20on%20the%20internet" alt="Typing SVG" />
-  </a>
+  <b>Backend & Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&theme=dark" alt="Backend Stack"/>
 </p>
-
-## 🔗 Connect
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-a5f3fc?style=for-the-badge&logo=twitter&logoColor=0f172a"/></a>
-  <a href="https://linkedin.com/in/%20www.linkedin.com/in/shoxjaxon-atabayev"><img src="https://img.shields.io/badge/LinkedIn-38bdf8?style=for-the-badge&logo=linkedin&logoColor=0f172a"/></a>
-  <a href="YOUR_WEBSITE"><img src="https://img.shields.io/badge/Portfolio-e2e8f0?style=for-the-badge&logo=google-chrome&logoColor=0f172a"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-a5f3fc?style=for-the-badge&logo=gmail&logoColor=0f172a"/></a>
+  <b>Frontend & Styling</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css&theme=dark" alt="Frontend Stack"/>
 </p>
-
-## 🪟 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Python,Django,DjangoRESTFramework,FastAPI,SQL,JavaScript,TailwindCSS&perline=9"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=Git,GitHub,Docker,PostgreSQL,MySQL,PostGIS,Redis,AWS,Linux,Nginx,Gunicorn,Postman,VSCode,Zed,Pycharm,Figma&perline=9"/>
+  <b>DevOps, Cloud & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,vscode,postman,figma&theme=dark" alt="DevOps Stack"/>
 </p>
 
-## 📊 Stats
+---
+
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=shoxjaxon-atabayev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=a5f3fc&icon_color=a5f3fc&text_color=e2e8f0&bg_color=0f172a" height="165"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=compact&theme=github_dark&hide_border=true&title_color=a5f3fc&text_color=e2e8f0&bg_color=0f172a" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxjaxon-atabayev&custom_title=GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 </p>
 
-## 💡 Top Languages
+<br/>
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=donut&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readmeapp.vercel.app/api?username=shoxjaxon-atabayev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=donut&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175" alt="Top Languages"/>
 </p>
-
-## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shoxjaxon-atabayev&theme=github-dark-blue&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=shoxjaxon-atabayev&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" width="49%" alt="Streak Stats"/>
 </p>
 
-## 🏆 Trophies
+---
+
+### 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoxjaxon-atabayev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoxjaxon-atabayev/shoxjaxon-atabayev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoxjaxon-atabayev/shoxjaxon-atabayev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shoxjaxon-atabayev/shoxjaxon-atabayev/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/shoxjaxon-atabayev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxjaxon-atabayev&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
-
-## 🌐 Projects
-
-<p align="center">
-  <a href="https://github.com/shoxjaxon-atabayev/shoxjaxon-atabayev">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=shoxjaxon-atabayev&repo=shoxjaxon-atabayev&theme=github_dark&hide_border=true&title_color=a5f3fc&bg_color=0f172a"/>
-  </a>
-  <a href="https://github.com/shoxjaxon-atabayev/snipy">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=shoxjaxon-atabayev&repo=snipy&theme=github_dark&hide_border=true&title_color=a5f3fc&bg_color=0f172a"/>
-  </a>
-</p>
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
-</div> -->
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=100&section=footer" width="100%" alt="Footer Wave"/>
+
+  <p><i>"Crafting elegant software with discipline and precision."</i></p>
+
+</div>
