@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=180&section=header&text=Shoxjaxon%20Atabayev&fontSize=42&fontColor=f0f6fc&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20%26%20Backend%20Developer&descAlignY=70&descSize=18&descColor=8b949e" width="100%" alt="Header Banner" />
+  <!-- Premium Local SVG Header Banner (100% Reliable & Always Renders) -->
+  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Dynamic Typing Animation -->
+  <!-- Dynamic Typing SVG Animation -->
   <a href="https://github.com/shoxjaxon-atabayev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+%26+Backend+Developer+⚡;Building+Scalable+Web+Systems+%26+APIs+🛠️;Crafting+Clean%2C+Efficient+%26+Maintainable+Code+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Backend+Developer;Building+Scalable+Web+Systems+%26+APIs;Crafting+Clean+%26+Maintainable+Code" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -42,9 +42,9 @@
   "developer": {
     "name": "Shoxjaxon Atabayev",
     "role": "Full Stack & Backend Developer",
-    "focus": ["API Architecture", "Scalable Systems", "Database Optimization"],
+    "focus": ["API Architecture", "Scalable Web Systems", "Database Optimization"],
     "location": "Uzbekistan",
-    "passions": ["Clean Architecture", "Open Source", "Performance Tuning"]
+    "passions": ["Clean Code", "Open Source", "System Performance"]
   }
 }
 ```
@@ -54,17 +54,17 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <b>Backend & Database</b><br/>
+  <b>Backend & Databases</b><br/>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&theme=dark" alt="Backend Stack"/>
 </p>
 
 <p align="center">
-  <b>Frontend & Styling</b><br/>
+  <b>Frontend & Web</b><br/>
   <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css&theme=dark" alt="Frontend Stack"/>
 </p>
 
 <p align="center">
-  <b>DevOps, Cloud & Tools</b><br/>
+  <b>DevOps, Infrastructure & Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,vscode,postman,figma&theme=dark" alt="DevOps Stack"/>
 </p>
 
@@ -79,9 +79,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=shoxjaxon-atabayev&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shoxjaxon-atabayev&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=donut&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoxjaxon-atabayev&layout=donut&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="175" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoxjaxon-atabayev/shoxjaxon-atabayev/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoxjaxon-atabayev/shoxjaxon-atabayev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shoxjaxon-atabayev/shoxjaxon-atabayev/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="./assets/snake-placeholder.svg">
   </picture>
 </p>
 
@@ -104,8 +104,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=100&section=footer" width="100%" alt="Footer Wave"/>
-
-  <p><i>"Crafting elegant software with discipline and precision."</i></p>
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
