@@ -11,7 +11,7 @@
   </a>
 
   <br/><br/>
-
+ 
   <!-- Minimalist Monochromatic Glass Social Badges -->
   <a href="https://t.me/shoxjaxon_atabayev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=c9d1d9" alt="Telegram"/>
