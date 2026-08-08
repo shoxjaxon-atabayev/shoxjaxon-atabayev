@@ -122,8 +122,8 @@
 
   <!-- Silver Shimmer Animation -->
   <g clip-path="url(#cardClip)">
-    <rect y="-50" width="220" height="350" fill="url(#silverShimmer)" transform="rotate(20, 400, 75)" opacity="0.9">
-      <animateTransform attributeName="transform" type="translate" values="-250 0; 880 0; 880 0" keyTimes="0; 0.6; 1" dur="7s" repeatCount="indefinite" additive="sum"/>
+    <rect x="0" y="-50" width="200" height="450" fill="url(#silverShimmer)" transform="skewX(-25)" opacity="0.9">
+      <animateTransform attributeName="transform" type="translate" values="-350 0; 930 0; 930 0" keyTimes="0; 0.55; 1" dur="7s" repeatCount="indefinite" additive="sum"/>
     </rect>
   </g>
 </svg>
