@@ -50,9 +50,9 @@
     </clipPath>
     <linearGradient id="silverShimmer" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="35%" stop-color="#ffffff" stop-opacity="0.04"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.16"/>
-      <stop offset="65%" stop-color="#ffffff" stop-opacity="0.04"/>
+      <stop offset="30%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
   </defs>
@@ -93,8 +93,8 @@
 
   <!-- Silver Shimmer Animation -->
   <g clip-path="url(#cardClip)">
-    <rect y="-30" width="100" height="280" fill="url(#silverShimmer)" transform="rotate(20, 175, 82.5)" opacity="0.9">
-      <animateTransform attributeName="transform" type="translate" values="-250 0; 500 0; 500 0" keyTimes="0; 0.65; 1" dur="7s" repeatCount="indefinite" additive="sum"/>
+    <rect y="-40" width="220" height="320" fill="url(#silverShimmer)" transform="rotate(20, 175, 82.5)" opacity="0.9">
+      <animateTransform attributeName="transform" type="translate" values="-200 0; 430 0; 430 0" keyTimes="0; 0.6; 1" dur="7s" repeatCount="indefinite" additive="sum"/>
     </rect>
   </g>
 </svg>
