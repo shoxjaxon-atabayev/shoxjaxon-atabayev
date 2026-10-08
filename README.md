@@ -82,22 +82,6 @@
 
 ---
 
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%23c9d1d9" height="20" valign="middle"/> &nbsp; METRICS &amp; ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoxjaxon-atabayev&custom_title=GitHub%20Activity%20Graph&bg_color=0d1117&color=c9d1d9&line=8b949e&point=f0f6fc&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shoxjaxon-atabayev&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=C9D1D9&currStreakNum=F0F6FC&sideNums=8B949E&border=21262D" width="49%" alt="Streak Stats"/>
-  &nbsp;&nbsp;
-  <img src="./assets/languages.svg" height="165" alt="Top Languages"/>
-</p>
-
----
-
 <div align="center">
 
   <!-- Glassmorphic Silver Metallic Footer SVG -->
